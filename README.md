@@ -1,5 +1,5 @@
 # clientbase
-Minecraft 1.20.2 hacked client base
+shitty Minecraft 1.20.2 hacked client base
 
 # How to build:
 + run build.gradle file 
