@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "client",
+  "version": "${version}",
+  "name": "Client",
+  "description": "",
+  "authors": [
+    "LvStrngg"
+  ],
+  "contact": {
+    "repo": ""
+  },
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.you.client.Main"
+    ]
+  },
+  "mixins": [
+    "client.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
