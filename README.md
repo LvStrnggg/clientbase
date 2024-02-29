@@ -10,4 +10,4 @@ Minecraft 1.20.2 hacked client base
 + Scaled/Unscaled projection - Meteor client
 
 rest is mine iirc
-\ngui bind - rctrl
+# gui bind - rctrl
